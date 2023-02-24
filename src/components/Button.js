@@ -38,7 +38,7 @@ const StyledButton = styled.button.attrs(props => ({
   `}
 `
 
-const largeButton = styled(StyledButton)`
+const LargeButton = styled(StyledButton)`
   font-size: 32px;
 `
 

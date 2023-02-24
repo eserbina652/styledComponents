@@ -6,7 +6,7 @@ import Console from "./components/Console";
 import Button from "./components/Button";
 
 const AppWrapper = styled.div`
-width: 100%;
+  width: 100%;
   min-height: 100vh;
   padding: 3rem;
   background: black;

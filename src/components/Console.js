@@ -8,7 +8,7 @@ const StyledConsole = styled.textarea`
   height: 70vh;
   color: ${props => props.color || props.theme.colors.primary};
   background-color: black;
-  font-size: 20px;
+  font-size: 24px;
   border: none;
   resize: none;
   &:focus {
